@@ -1,3 +1,5 @@
+# Nothing to See Here
+
 I work for an MSP :computer:
 
 I create scripts for everyone to use.
